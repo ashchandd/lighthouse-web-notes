@@ -2,4 +2,7 @@
 
 ## Summary
 
-Space to document notes during the Lighthouse Labs Bootcamp 
+This repo contains all notes taken by [Ashley](https://github.com/ashchandd) during the Lighthouse Labs Web Development Bootcamp.
+
+[LLH Github](https://github.com/lighthouse-labs)
+[LLH Website](https://www.lighthouselabs.ca/)
